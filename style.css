@@ -1,0 +1,49 @@
+h1{
+    background-color: rgb(144, 195, 239);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+
+
+.heading-row{
+    background-color: rgb(144, 195, 239);
+}
+
+.top-row{
+    padding-left: 20px 
+
+}
+
+.row{
+    border-bottom: 2px dashed black
+}
+
+.h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    padding-top: 15px;
+    text-align: left
+}
+
+.h3{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.text-block{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    border: 10px;
+}
+
+.contact{
+    text-align: center;
+}
+
+.link{
+    color: black
+}
+
+.link:hover{
+    color:rgb(144, 195, 239)
+}
